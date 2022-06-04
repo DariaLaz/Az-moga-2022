@@ -1,0 +1,15 @@
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Queens.exe
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Queens.deps.json
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Queens.runtimeconfig.json
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Queens.runtimeconfig.dev.json
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Queens.dll
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Queens.pdb
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.csprojAssemblyReference.cache
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.AssemblyInfoInputs.cache
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.AssemblyInfo.cs
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.csproj.CoreCompileInputs.cache
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.dll
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.pdb
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.genruntimeconfig.cache
+E:\devin 2022\chaotic duo\devin2022\Queens\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+E:\devin 2022\chaotic duo\devin2022\Queens\obj\Debug\netcoreapp3.1\Queens.csproj.CopyComplete
